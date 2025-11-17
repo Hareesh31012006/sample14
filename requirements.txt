@@ -3,8 +3,8 @@ yfinance
 gnewsclient
 textblob
 torch==2.5.1
-transformers==4.40.1
-tokenizers==0.15.2
+transformers==4.41.3
+tokenizers==0.19.1
 pandas
 numpy
 matplotlib
