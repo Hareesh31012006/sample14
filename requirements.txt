@@ -1,0 +1,16 @@
+streamlit==1.37.0
+yfinance==0.2.38
+gnewsclient==1.12
+textblob==0.17.1
+torch==2.2.2
+transformers==4.40.1
+tokenizers==0.15.2
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+seaborn==0.13.2
+backtrader==1.9.78.123
+pymongo==4.6.1
+alpha_vantage==2.4.0
+ta==0.10.2
+scikit-learn==1.4.1
